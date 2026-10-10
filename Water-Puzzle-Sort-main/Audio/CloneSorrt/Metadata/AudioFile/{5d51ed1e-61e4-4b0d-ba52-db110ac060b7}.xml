@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5d51ed1e-61e4-4b0d-ba52-db110ac060b7}">
+		<property name="assetPath">
+			<value>freesound_gamestudio-clear-combo-7-394494.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.044</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d2c69993-3219-44b0-9c11-77e1bf3d4eb2}</destination>
+		</relationship>
+	</object>
+</objects>

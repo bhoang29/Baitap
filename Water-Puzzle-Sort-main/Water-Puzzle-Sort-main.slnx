@@ -1,0 +1,13 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CFXREditor.csproj" />
+  <Project Path="FMODUnityEditor.csproj" />
+  <Project Path="CFXRRuntime.csproj" />
+  <Project Path="FMODUnityResonanceEditor.csproj" />
+  <Project Path="CFXRDemo.csproj" />
+  <Project Path="FMODUnity.csproj" />
+  <Project Path="FMODUnityHaptics.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="CFXRDemoEditor.csproj" />
+  <Project Path="FMODUnityResonance.csproj" />
+</Solution>

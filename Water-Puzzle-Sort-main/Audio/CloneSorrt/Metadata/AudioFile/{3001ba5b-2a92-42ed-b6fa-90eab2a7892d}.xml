@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3001ba5b-2a92-42ed-b6fa-90eab2a7892d}">
+		<property name="assetPath">
+			<value>floraphonic-pour-water-1-198288.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>31.32</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d2c69993-3219-44b0-9c11-77e1bf3d4eb2}</destination>
+		</relationship>
+	</object>
+</objects>
